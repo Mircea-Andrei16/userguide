@@ -40,9 +40,7 @@
     </booklists>
   </frontmatter>
  
-  <chapter href="maps/chapter-getting-started.ditamap"
-    product="author developer editor authorEclipse developerEclipse editorEclipse json"
-    collection-type="sequence" format="ditamap"/>
+  
   <chapter href="maps/chapter-installation.ditamap" collection-type="sequence" format="ditamap"
     product="author developer editor svnClient authorEclipse developerEclipse editorEclipse json"/>
   <chapter href="maps/chapter-configure-application.ditamap" collection-type="sequence"
