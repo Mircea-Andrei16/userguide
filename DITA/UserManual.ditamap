@@ -39,8 +39,6 @@
       <toc/>
     </booklists>
   </frontmatter>
- 
-  
   <chapter href="maps/chapter-installation.ditamap" collection-type="sequence" format="ditamap"
     product="author developer editor svnClient authorEclipse developerEclipse editorEclipse json"/>
   <chapter href="maps/chapter-configure-application.ditamap" collection-type="sequence"
