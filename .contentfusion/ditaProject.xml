@@ -66,36 +66,26 @@
     <deliverable id="Oxygen_XML_Author_WebHelp-1704797699143" name="Oxygen XML Author WebHelp">
         <context idref="ysgUCzFQnmzwQKO"/>
         <output href="webhelp-output"/>
-        <publication idref="webhelp">
-            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
-        </publication>
+        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="d-Oxygen_XML_Author_PDF-1707133381302" name="Oxygen XML Author PDF">
         <context idref="ysgUCzFQnmzwQKO"/>
         <output href="pdf-output"/>
-        <publication idref="pdf">
-            <param name="pdf.publishing.template" value="cf://templates/Oxygen"/>
-        </publication>
+        <publication idref="pdf"/>
     </deliverable>
     <deliverable id="d-WebAuthor_to_WebHelp-1707657951978" name="WebAuthor to WebHelp">
         <context idref="EOiallJqGqBfrjc"/>
         <output href="webhelp-output"/>
-        <publication idref="webhelp">
-            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
-        </publication>
+        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="d-WebAuthor_PDF-1707718939846" name="WebAuthor PDF">
         <context idref="EOiallJqGqBfrjc"/>
         <output href="pdf-output"/>
-        <publication idref="pdf">
-            <param name="pdf.publishing.template" value="cf://templates/Oxygen"/>
-        </publication>
+        <publication idref="pdf"/>
     </deliverable>
     <deliverable id="d-DITA_Map_WebHelp_Responsive_-_WebHelp_Responsive-1707724761854" name="WebHelp - WebHelp Responsive User Guide">
         <context idref="nxNrocAgVEVPufq"/>
         <output href="webhelp-output"/>
-        <publication idref="webhelp">
-            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
-        </publication>
+        <publication idref="webhelp"/>
     </deliverable>
 </project>
