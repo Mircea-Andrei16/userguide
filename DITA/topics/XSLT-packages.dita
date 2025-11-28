@@ -27,6 +27,6 @@
         package</i> in the search field.</p>
     <p id="p_u2z_3y3_t4b">Also, when editing XSLT 3.0 documents, the
         <xmlelement>xsl:package</xmlelement> element is offered as one of the proposals for the
-      document's root element in the content completion window.</p>
+      document's root element in the content completion window this is the new edit.</p>
   </body>
 </topic>
